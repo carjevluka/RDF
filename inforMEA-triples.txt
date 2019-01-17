@@ -1,6 +1,3 @@
-
-Output
-Number of triples parsed: 5560
 <http://www.informea.org/terms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <http://www.informea.org/terms> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://www.informea.org/terms/xl-6e335fdf-dffc-4243-9852-5072f3841217> .
 <http://www.informea.org/terms/xl-6e335fdf-dffc-4243-9852-5072f3841217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
